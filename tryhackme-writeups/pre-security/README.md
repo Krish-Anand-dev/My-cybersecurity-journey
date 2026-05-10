@@ -1,7 +1,7 @@
 # TryHackMe — Pre-Security Path
 
 **Completed:** 10 May 2026 · **Duration:** 19h 10m · **Cert:** THM-GNAONIICFH
-
+**Certificate** : https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GNAONIICFH.pdf
 ---
 
 ## How I actually did this
