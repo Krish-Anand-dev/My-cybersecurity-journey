@@ -648,5 +648,3 @@ The most interesting challenge was Protocol Drift because it required chaining m
 Overall, this room does a great job demonstrating how traditional vulnerabilities evolve once AI systems and agentic workflows become part of the attack surface.
 
 Operation Neural Never complete.
-
-```
