@@ -1,4 +1,3 @@
-```md
 # TryHackMe - 2026: An AI Odyssey
 
 Collection of writeups and notes from the TryHackMe 2026: An AI Odyssey CTF event.
@@ -20,4 +19,3 @@ Collection of writeups and notes from the TryHackMe 2026: An AI Odyssey CTF even
 - [Cypheron](./Cypheron/README.md)
 - [Token City](./Token%20City/README.md)
 - [Injectus IX](./Injectus%20IX/README.md)
-```
