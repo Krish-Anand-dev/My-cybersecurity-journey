@@ -8,19 +8,6 @@ It will also contain the writeups regarding CTF's and BugBounty (if i ever get i
 P.S. (this readme file gets updated whenever i do something new)
 ---
 
-## What's in here
-
-```
-Cyber-Security-Journey/
-├── tryhackme-writeups/
-│   └── pre-security/       ← completed May 2026
-├── CTFs/
-│   └── Rakshna/
-└── README.md
-```
-
----
-
 ## What I've learned so far
 
 ### TryHackMe — Pre-Security Path
